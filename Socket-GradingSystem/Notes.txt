@@ -1,0 +1,22 @@
+    /* Admin
+        Email : abd1@gmail.com
+        Password : 12345
+        ID : 1
+    */
+
+    /* Teacher
+            Email : qwer@gmail.com
+            Password : 12345
+            ID : 1
+    */
+
+    /* Student
+            Email : abd2@gmail.com
+            Password : 12345
+            ID : 2
+    */
+
+    /* Course
+            Name : Math101
+            teacherID : 1
+    */
